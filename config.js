@@ -1,1 +1,1 @@
-config.brandingDataUrl = 'https://rawcdn.githack.com/maxired/myjitsi/master/branding.json'
+config.brandingDataUrl = 'https://rawcdn.githack.com/noorapps/noorclass/master/branding.json'
